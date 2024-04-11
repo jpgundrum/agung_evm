@@ -1,6 +1,8 @@
 # AGUNG EVM Contract Deployment
 
 ## Install Dependencies
+git clone this repository for easy setup
+
 Ensure that you have [node.js](https://nodejs.org/en) on your local machine
 
 Execute the cmd below to install dependencies:
